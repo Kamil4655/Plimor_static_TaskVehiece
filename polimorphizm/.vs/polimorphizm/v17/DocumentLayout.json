@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamil\\Desktop\\Task 15\\polimorphizm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D96FCB34-77D6-4A58-880C-01C70B502C0B}|polimorphizm\\polimorphizm.csproj|c:\\users\\kamil\\desktop\\task 15\\polimorphizm\\polimorphizm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96FCB34-77D6-4A58-880C-01C70B502C0B}|polimorphizm\\polimorphizm.csproj|solutionrelative:polimorphizm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96FCB34-77D6-4A58-880C-01C70B502C0B}|polimorphizm\\polimorphizm.csproj|c:\\users\\kamil\\desktop\\task 15\\polimorphizm\\polimorphizm\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96FCB34-77D6-4A58-880C-01C70B502C0B}|polimorphizm\\polimorphizm.csproj|solutionrelative:polimorphizm\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96FCB34-77D6-4A58-880C-01C70B502C0B}|polimorphizm\\polimorphizm.csproj|c:\\users\\kamil\\desktop\\task 15\\polimorphizm\\polimorphizm\\models\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96FCB34-77D6-4A58-880C-01C70B502C0B}|polimorphizm\\polimorphizm.csproj|solutionrelative:polimorphizm\\models\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96FCB34-77D6-4A58-880C-01C70B502C0B}|polimorphizm\\polimorphizm.csproj|c:\\users\\kamil\\desktop\\task 15\\polimorphizm\\polimorphizm\\interfaces\\idifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96FCB34-77D6-4A58-880C-01C70B502C0B}|polimorphizm\\polimorphizm.csproj|solutionrelative:polimorphizm\\interfaces\\idifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96FCB34-77D6-4A58-880C-01C70B502C0B}|polimorphizm\\polimorphizm.csproj|c:\\users\\kamil\\desktop\\task 15\\polimorphizm\\polimorphizm\\interfaces\\imultiply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96FCB34-77D6-4A58-880C-01C70B502C0B}|polimorphizm\\polimorphizm.csproj|solutionrelative:polimorphizm\\interfaces\\imultiply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96FCB34-77D6-4A58-880C-01C70B502C0B}|polimorphizm\\polimorphizm.csproj|c:\\users\\kamil\\desktop\\task 15\\polimorphizm\\polimorphizm\\interfaces\\idivide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96FCB34-77D6-4A58-880C-01C70B502C0B}|polimorphizm\\polimorphizm.csproj|solutionrelative:polimorphizm\\interfaces\\idivide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96FCB34-77D6-4A58-880C-01C70B502C0B}|polimorphizm\\polimorphizm.csproj|c:\\users\\kamil\\desktop\\task 15\\polimorphizm\\polimorphizm\\interfaces\\iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96FCB34-77D6-4A58-880C-01C70B502C0B}|polimorphizm\\polimorphizm.csproj|solutionrelative:polimorphizm\\interfaces\\iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDifference.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Task 15\\polimorphizm\\polimorphizm\\Interfaces\\IDifference.cs",
+              "RelativeDocumentMoniker": "polimorphizm\\Interfaces\\IDifference.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Task 15\\polimorphizm\\polimorphizm\\Interfaces\\IDifference.cs",
+              "RelativeToolTip": "polimorphizm\\Interfaces\\IDifference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:22:59.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMultiply.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Task 15\\polimorphizm\\polimorphizm\\Interfaces\\IMultiply.cs",
+              "RelativeDocumentMoniker": "polimorphizm\\Interfaces\\IMultiply.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Task 15\\polimorphizm\\polimorphizm\\Interfaces\\IMultiply.cs",
+              "RelativeToolTip": "polimorphizm\\Interfaces\\IMultiply.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:22:33.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDivide.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Task 15\\polimorphizm\\polimorphizm\\Interfaces\\IDivide.cs",
+              "RelativeDocumentMoniker": "polimorphizm\\Interfaces\\IDivide.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Task 15\\polimorphizm\\polimorphizm\\Interfaces\\IDivide.cs",
+              "RelativeToolTip": "polimorphizm\\Interfaces\\IDivide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:22:09.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAdd.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Task 15\\polimorphizm\\polimorphizm\\Interfaces\\IAdd.cs",
+              "RelativeDocumentMoniker": "polimorphizm\\Interfaces\\IAdd.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Task 15\\polimorphizm\\polimorphizm\\Interfaces\\IAdd.cs",
+              "RelativeToolTip": "polimorphizm\\Interfaces\\IAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:21:46.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Task 15\\polimorphizm\\polimorphizm\\Models\\Calculate.cs",
+              "RelativeDocumentMoniker": "polimorphizm\\Models\\Calculate.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Task 15\\polimorphizm\\polimorphizm\\Models\\Calculate.cs",
+              "RelativeToolTip": "polimorphizm\\Models\\Calculate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:08:36.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Task 15\\polimorphizm\\polimorphizm\\Program.cs",
+              "RelativeDocumentMoniker": "polimorphizm\\Program.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Task 15\\polimorphizm\\polimorphizm\\Program.cs",
+              "RelativeToolTip": "polimorphizm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:42:56.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\Task 15\\polimorphizm\\polimorphizm\\Models\\Area.cs",
+              "RelativeDocumentMoniker": "polimorphizm\\Models\\Area.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\Task 15\\polimorphizm\\polimorphizm\\Models\\Area.cs",
+              "RelativeToolTip": "polimorphizm\\Models\\Area.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:41:00.479Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

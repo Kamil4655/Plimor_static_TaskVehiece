@@ -1,0 +1,28 @@
+C:\Users\Emil\Desktop\code academy task\Task 13\task Vehicle\task Vehicle\bin\Debug\net6.0\task Vehicle.exe
+C:\Users\Emil\Desktop\code academy task\Task 13\task Vehicle\task Vehicle\bin\Debug\net6.0\task Vehicle.deps.json
+C:\Users\Emil\Desktop\code academy task\Task 13\task Vehicle\task Vehicle\bin\Debug\net6.0\task Vehicle.runtimeconfig.json
+C:\Users\Emil\Desktop\code academy task\Task 13\task Vehicle\task Vehicle\bin\Debug\net6.0\task Vehicle.dll
+C:\Users\Emil\Desktop\code academy task\Task 13\task Vehicle\task Vehicle\bin\Debug\net6.0\task Vehicle.pdb
+C:\Users\Emil\Desktop\code academy task\Task 13\task Vehicle\task Vehicle\obj\Debug\net6.0\task Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\code academy task\Task 13\task Vehicle\task Vehicle\obj\Debug\net6.0\task Vehicle.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\code academy task\Task 13\task Vehicle\task Vehicle\obj\Debug\net6.0\task Vehicle.AssemblyInfo.cs
+C:\Users\Emil\Desktop\code academy task\Task 13\task Vehicle\task Vehicle\obj\Debug\net6.0\task Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\code academy task\Task 13\task Vehicle\task Vehicle\obj\Debug\net6.0\task Vehicle.dll
+C:\Users\Emil\Desktop\code academy task\Task 13\task Vehicle\task Vehicle\obj\Debug\net6.0\refint\task Vehicle.dll
+C:\Users\Emil\Desktop\code academy task\Task 13\task Vehicle\task Vehicle\obj\Debug\net6.0\task Vehicle.pdb
+C:\Users\Emil\Desktop\code academy task\Task 13\task Vehicle\task Vehicle\obj\Debug\net6.0\task Vehicle.genruntimeconfig.cache
+C:\Users\Emil\Desktop\code academy task\Task 13\task Vehicle\task Vehicle\obj\Debug\net6.0\ref\task Vehicle.dll
+C:\Users\Kamil\Desktop\Task 15\task Vehicle\task Vehicle\bin\Debug\net6.0\task Vehicle.exe
+C:\Users\Kamil\Desktop\Task 15\task Vehicle\task Vehicle\bin\Debug\net6.0\task Vehicle.deps.json
+C:\Users\Kamil\Desktop\Task 15\task Vehicle\task Vehicle\bin\Debug\net6.0\task Vehicle.runtimeconfig.json
+C:\Users\Kamil\Desktop\Task 15\task Vehicle\task Vehicle\bin\Debug\net6.0\task Vehicle.dll
+C:\Users\Kamil\Desktop\Task 15\task Vehicle\task Vehicle\bin\Debug\net6.0\task Vehicle.pdb
+C:\Users\Kamil\Desktop\Task 15\task Vehicle\task Vehicle\obj\Debug\net6.0\task Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\Task 15\task Vehicle\task Vehicle\obj\Debug\net6.0\task Vehicle.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\Task 15\task Vehicle\task Vehicle\obj\Debug\net6.0\task Vehicle.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\Task 15\task Vehicle\task Vehicle\obj\Debug\net6.0\task Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Task 15\task Vehicle\task Vehicle\obj\Debug\net6.0\task Vehicle.dll
+C:\Users\Kamil\Desktop\Task 15\task Vehicle\task Vehicle\obj\Debug\net6.0\refint\task Vehicle.dll
+C:\Users\Kamil\Desktop\Task 15\task Vehicle\task Vehicle\obj\Debug\net6.0\task Vehicle.pdb
+C:\Users\Kamil\Desktop\Task 15\task Vehicle\task Vehicle\obj\Debug\net6.0\task Vehicle.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\Task 15\task Vehicle\task Vehicle\obj\Debug\net6.0\ref\task Vehicle.dll

@@ -1,0 +1,28 @@
+C:\Users\Emil\Desktop\code academy task\Task 13\polimorphizm\polimorphizm\bin\Debug\net6.0\polimorphizm.exe
+C:\Users\Emil\Desktop\code academy task\Task 13\polimorphizm\polimorphizm\bin\Debug\net6.0\polimorphizm.deps.json
+C:\Users\Emil\Desktop\code academy task\Task 13\polimorphizm\polimorphizm\bin\Debug\net6.0\polimorphizm.runtimeconfig.json
+C:\Users\Emil\Desktop\code academy task\Task 13\polimorphizm\polimorphizm\bin\Debug\net6.0\polimorphizm.dll
+C:\Users\Emil\Desktop\code academy task\Task 13\polimorphizm\polimorphizm\bin\Debug\net6.0\polimorphizm.pdb
+C:\Users\Emil\Desktop\code academy task\Task 13\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\code academy task\Task 13\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\code academy task\Task 13\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.AssemblyInfo.cs
+C:\Users\Emil\Desktop\code academy task\Task 13\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\code academy task\Task 13\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.dll
+C:\Users\Emil\Desktop\code academy task\Task 13\polimorphizm\polimorphizm\obj\Debug\net6.0\refint\polimorphizm.dll
+C:\Users\Emil\Desktop\code academy task\Task 13\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.pdb
+C:\Users\Emil\Desktop\code academy task\Task 13\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.genruntimeconfig.cache
+C:\Users\Emil\Desktop\code academy task\Task 13\polimorphizm\polimorphizm\obj\Debug\net6.0\ref\polimorphizm.dll
+C:\Users\Kamil\Desktop\Task 15\polimorphizm\polimorphizm\bin\Debug\net6.0\polimorphizm.exe
+C:\Users\Kamil\Desktop\Task 15\polimorphizm\polimorphizm\bin\Debug\net6.0\polimorphizm.deps.json
+C:\Users\Kamil\Desktop\Task 15\polimorphizm\polimorphizm\bin\Debug\net6.0\polimorphizm.runtimeconfig.json
+C:\Users\Kamil\Desktop\Task 15\polimorphizm\polimorphizm\bin\Debug\net6.0\polimorphizm.dll
+C:\Users\Kamil\Desktop\Task 15\polimorphizm\polimorphizm\bin\Debug\net6.0\polimorphizm.pdb
+C:\Users\Kamil\Desktop\Task 15\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\Task 15\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\Task 15\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\Task 15\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Task 15\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.dll
+C:\Users\Kamil\Desktop\Task 15\polimorphizm\polimorphizm\obj\Debug\net6.0\refint\polimorphizm.dll
+C:\Users\Kamil\Desktop\Task 15\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.pdb
+C:\Users\Kamil\Desktop\Task 15\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\Task 15\polimorphizm\polimorphizm\obj\Debug\net6.0\ref\polimorphizm.dll

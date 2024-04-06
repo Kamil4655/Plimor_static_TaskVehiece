@@ -1,0 +1,28 @@
+C:\Users\Emil\Desktop\code academy task\Task 13\static\static\bin\Debug\net6.0\Static.exe
+C:\Users\Emil\Desktop\code academy task\Task 13\static\static\bin\Debug\net6.0\Static.deps.json
+C:\Users\Emil\Desktop\code academy task\Task 13\static\static\bin\Debug\net6.0\Static.runtimeconfig.json
+C:\Users\Emil\Desktop\code academy task\Task 13\static\static\bin\Debug\net6.0\Static.dll
+C:\Users\Emil\Desktop\code academy task\Task 13\static\static\bin\Debug\net6.0\Static.pdb
+C:\Users\Emil\Desktop\code academy task\Task 13\static\static\obj\Debug\net6.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\code academy task\Task 13\static\static\obj\Debug\net6.0\Static.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\code academy task\Task 13\static\static\obj\Debug\net6.0\Static.AssemblyInfo.cs
+C:\Users\Emil\Desktop\code academy task\Task 13\static\static\obj\Debug\net6.0\Static.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\code academy task\Task 13\static\static\obj\Debug\net6.0\Static.dll
+C:\Users\Emil\Desktop\code academy task\Task 13\static\static\obj\Debug\net6.0\refint\Static.dll
+C:\Users\Emil\Desktop\code academy task\Task 13\static\static\obj\Debug\net6.0\Static.pdb
+C:\Users\Emil\Desktop\code academy task\Task 13\static\static\obj\Debug\net6.0\Static.genruntimeconfig.cache
+C:\Users\Emil\Desktop\code academy task\Task 13\static\static\obj\Debug\net6.0\ref\Static.dll
+C:\Users\Kamil\Desktop\Task 15\static\static\bin\Debug\net6.0\Static.exe
+C:\Users\Kamil\Desktop\Task 15\static\static\bin\Debug\net6.0\Static.deps.json
+C:\Users\Kamil\Desktop\Task 15\static\static\bin\Debug\net6.0\Static.runtimeconfig.json
+C:\Users\Kamil\Desktop\Task 15\static\static\bin\Debug\net6.0\Static.dll
+C:\Users\Kamil\Desktop\Task 15\static\static\bin\Debug\net6.0\Static.pdb
+C:\Users\Kamil\Desktop\Task 15\static\static\obj\Debug\net6.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\Task 15\static\static\obj\Debug\net6.0\Static.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\Task 15\static\static\obj\Debug\net6.0\Static.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\Task 15\static\static\obj\Debug\net6.0\Static.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Task 15\static\static\obj\Debug\net6.0\Static.dll
+C:\Users\Kamil\Desktop\Task 15\static\static\obj\Debug\net6.0\refint\Static.dll
+C:\Users\Kamil\Desktop\Task 15\static\static\obj\Debug\net6.0\Static.pdb
+C:\Users\Kamil\Desktop\Task 15\static\static\obj\Debug\net6.0\Static.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\Task 15\static\static\obj\Debug\net6.0\ref\Static.dll
